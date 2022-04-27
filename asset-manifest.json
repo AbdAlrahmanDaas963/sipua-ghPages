@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sipua-ghPages/static/css/main.eb4605f6.css",
+    "main.js": "/sipua-ghPages/static/js/main.15b24fe5.js",
+    "static/js/787.587eed73.chunk.js": "/sipua-ghPages/static/js/787.587eed73.chunk.js",
+    "static/media/image-from-rawpixel-id-1230651-original.png": "/sipua-ghPages/static/media/image-from-rawpixel-id-1230651-original.3c6e445494123455a34f.png",
+    "static/media/hour.jpg": "/sipua-ghPages/static/media/hour.450b85edfa6872de2db0.jpg",
+    "static/media/notfound2.png": "/sipua-ghPages/static/media/notfound2.4ac46656c5c730d56a66.png",
+    "static/media/soon.png": "/sipua-ghPages/static/media/soon.4ac46656c5c730d56a66.png",
+    "static/media/unsplash.png": "/sipua-ghPages/static/media/unsplash.7700c0f3ff959509f099.png",
+    "static/media/pic2.png": "/sipua-ghPages/static/media/pic2.65c24a1fdb1700c4749d.png",
+    "static/media/pic1.png": "/sipua-ghPages/static/media/pic1.e14c06d8edce60a7909d.png",
+    "static/media/pic3.png": "/sipua-ghPages/static/media/pic3.2b18258316e2e8cc1c87.png",
+    "index.html": "/sipua-ghPages/index.html",
+    "static/media/mouse.svg": "/sipua-ghPages/static/media/mouse.ea45ca09ec03a7e2c2e5.svg",
+    "static/media/top.svg": "/sipua-ghPages/static/media/top.9399f1ad45e2375ba2c8c1082e072b54.svg",
+    "static/media/dark.svg": "/sipua-ghPages/static/media/dark.6cb83b55e41fd876194d99a40be7c3c1.svg",
+    "main.eb4605f6.css.map": "/sipua-ghPages/static/css/main.eb4605f6.css.map",
+    "main.15b24fe5.js.map": "/sipua-ghPages/static/js/main.15b24fe5.js.map",
+    "787.587eed73.chunk.js.map": "/sipua-ghPages/static/js/787.587eed73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb4605f6.css",
+    "static/js/main.15b24fe5.js"
+  ]
+}
